@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## About Me
 
-I am Sai Yedamala, a Bachelor of Technology graduate in ECE (2024) based in Hyderabad. My passion for technology and creativity has driven me to successfully complete various academic projects, including developing a Rapid Delivery website and creating a tool for gender identification based on characteristics.
+I am Sai Yedamala, a Bachelor of Technology graduate in ECE (2024). My passion for technology and creativity has driven me to successfully complete various academic projects, including developing a Rapid Delivery website and creating a tool for gender identification based on characteristics.
 
 ## Services
 
@@ -23,7 +23,7 @@ Here are some of the key projects I've worked on:
 
 - **Rapid Delivery Website:** A web-based solution designed to streamline the delivery process, ensuring quick and efficient service.
 - **Gender Identification Tool:** An innovative tool designed to identify gender based on various characteristics, using advanced algorithms.
-- **Maze Game in Python:**A fun and challenging maze game coded in Python, reflecting problem-solving abilities and coding expertise.
+- **Maze Game in Python:** A fun and challenging maze game coded in Python, reflecting problem-solving abilities and coding expertise.
 
 ## Technologies Used
 
@@ -33,7 +33,7 @@ Here are some of the key projects I've worked on:
 
 ## How to View
 
-You can view the live version of my portfolio at: [https://yourusername.github.io/my-portfolio/](https://yourusername.github.io/my-portfolio/)
+You can view the live version of my portfolio at: [https://Sai-Yedamala.github.io/my-portfolio/](https://Sai-Yedamala.github.io/my-portfolio/)
 
 ## Installation
 
